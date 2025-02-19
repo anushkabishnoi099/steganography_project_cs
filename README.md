@@ -1,1 +1,2 @@
 # steganography_project_cs
+STEGANOGRAPHY
